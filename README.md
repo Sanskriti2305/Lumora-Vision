@@ -7,9 +7,12 @@ Combining lightweight ML models with a cinematic, mission-control inspired UI, L
 ---
 ## 🖼️ Demo Video
 
-<video width="600" controls>
-  <source src="assets/Lumora.mp4" type="video/mp4">
-</video>
+<div align="center">
+  <video width="720" controls>
+    <source src="assets/Lumora.mp4" type="video/mp4">
+  </video>
+</div>
+
 
 
 ---
