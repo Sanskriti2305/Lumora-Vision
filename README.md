@@ -5,6 +5,9 @@ Lumora Vision is a futuristic tri-mode AI system that can analyze any uploaded i
 Combining lightweight ML models with a cinematic, mission-control inspired UI, Lumora Vision brings together planetary insight, cosmic intelligence, and anomaly detection into one seamless tool.
 
 ---
+## 🖼️ Demo Video
+ 
+![Demo Video](assets/Lumora.mp4)
 
 ## 🚀 Features
 - 🌍 **Earth Mode** — Detect disasters & terrain patterns  
