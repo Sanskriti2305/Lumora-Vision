@@ -6,7 +6,7 @@ Combining lightweight ML models with a cinematic, mission-control inspired UI, L
 
 ---
 ## 🖼️ Demo Video
-
+-In the assets folder
 <div align="center">
   <video controls width="720" src="assets/demo.gif">
     Your browser does not support the video tag.
