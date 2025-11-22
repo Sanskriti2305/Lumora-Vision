@@ -8,10 +8,11 @@ Combining lightweight ML models with a cinematic, mission-control inspired UI, L
 ## 🖼️ Demo Video
 -In the assets folder
 <div align="center">
-  <video controls width="720" src="assets/demo.gif">
-    Your browser does not support the video tag.
+  <video controls style="width:100%; max-width:720px;">
+    <source src="assets/Lumora_github.mp4" type="video/mp4">
   </video>
 </div>
+
 
 
 
