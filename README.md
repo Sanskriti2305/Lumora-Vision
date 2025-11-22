@@ -7,14 +7,13 @@ Combining lightweight ML models with a cinematic, mission-control inspired UI, L
 ---
 ## 🖼️ Demo Video
 -In the assets folder
-<div align="center">
-  <video controls style="width:100%; max-width:720px;">
-    <source src="assets/Lumora_github.mp4" type="video/mp4">
-  </video>
-</div>
+## 🖼️ Demo 
 
+![Lumora Vision](assets/demo.gif)
 
+## 🎬 Full Video 
 
+[Click here to watch the full demo](https://github.com/Sanskriti2305/Lumora-Vision/releases/download/v1.0/Lumora_github.mp4)
 
 
 ---
