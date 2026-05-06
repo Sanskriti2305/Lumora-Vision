@@ -1,4 +1,4 @@
-# 🌌 Lumora Vision – Unified Earth–Space Intelligence System  
+# 🌌 Lumora Vision - Unified Earth–Space Intelligence System  
 **AI-powered disaster analysis • Galaxy classification • Anomaly detection**
 
 Lumora Vision is a futuristic tri-mode AI system that can analyze any uploaded image and determine whether it belongs to **Earth**, **deep space**, or an **unknown anomalous domain**.  
@@ -22,9 +22,31 @@ Combining lightweight ML models with a cinematic, mission-control inspired UI, L
 - ⚡ **Anomaly Mode** — Identify unknown or irregular patterns  
 - 🎨 Futuristic 3D-inspired interface  
 - 🧠 Fast, real-time inference  
-- 🔧 Extremely hackathon-friendly  
 - 🎥 Includes a demo video  
 
+---
+## Results & Model Details
+
+```yaml
+architecture: CNN-based image classifier (custom lightweight model)
+task: Multi-class image classification across 3 domains
+  - Earth Mode (disaster/terrain detection)
+  - Space Mode (galaxy/cosmic structure classification)
+  - Anomaly Mode (out-of-distribution pattern detection)
+
+performance:
+  inference_latency: "<200ms per image (real-time)"
+  deployment: Streamlit Cloud (live, publicly accessible)
+  input_modality: Image (RGB)
+  model_type: Supervised classification with anomaly boundary detection
+
+reproducibility:
+  backend: Python (modular, separated from frontend)
+  frontend: Next.js
+  evaluation: Tested across Earth, Space, and anomalous image categories
+  environment: requirements.txt included for local replication
+```
+  
 ---
 
 # 💻 Running the Project Locally
@@ -34,5 +56,5 @@ Download the ZIP of this repository and extract it,
 **OR** clone it using:
 
 ```bash
-git clone https://github.com/your-username/lumora-vision.git
+git clone https://github.com/Sanskriti2305/lumora-vision.git
 
